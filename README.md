@@ -4,7 +4,7 @@ Software Developer & Data Analyst in progress, currently pursuing BS Computer Sc
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/humaira-bibi-79026030b) 
-[![Portfolio](https://img.shields.io/badge/Color=purple)] (https://humaira123-afk.github.io/portfolio-website/)
+[![Portfolio].(https://img.shields.io/badge/Portfolio-8A2BE2.svg?style=for-the-badge)] (https://humaira123-afk.github.io/portfolio-website/)
 
 
 #  Tech Stack:
